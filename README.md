@@ -5,11 +5,11 @@ Table of Contents
 -----------------
 
     Introduction
-   
+
     I: Syntax
      I.a:  Argument Descriptions
      I.b:  Guessing Field Names
-   
+
     II: General Usage
 
 
@@ -57,7 +57,7 @@ I.b: Guessing Field Names
 II. General Usage
 -----------------
 
-Given there is an SQL Injection vulnerability at: 
+Given there is an SQL Injection vulnerability at:
 
     http://example.com/sqlihole.php?id=1
 
